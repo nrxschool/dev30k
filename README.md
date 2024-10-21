@@ -9,7 +9,7 @@ Treinamento em blockchain focado na Stellar onde pra cada aula é passado um des
 - Apresentação do conteúdo do treinamento
 - Casos de uso da técnologia Blockchain e Stellar
 
-### Desafio 1
+**Desafio 1**
 
 - Criar um par de chaves até a próxima aula
 
@@ -20,7 +20,7 @@ Treinamento em blockchain focado na Stellar onde pra cada aula é passado um des
 - Pagamento dos classificados
 - Básico sobre Transações (Python e JavaScript)
 
-### Desafio 2
+**Desafio 2**
 
 - Criar uma transação com "DEV30K" assinado no MEMO
 
@@ -31,7 +31,7 @@ Treinamento em blockchain focado na Stellar onde pra cada aula é passado um des
 - Pagamento dos classificados
 - Avançado sobre Transações, Criando Tokens (Python e JavaScript)
 
-### Desafio 3
+**Desafio 3**
 
 - Criar um token e depsoitar 1000 Tokens para a carteira do professor
 
@@ -42,7 +42,7 @@ Treinamento em blockchain focado na Stellar onde pra cada aula é passado um des
 - Pagamento dos classificados
 - Básico sobre Rust, Criando primeiro smartcontracts (Rust)
 
-### Desafio 4
+**Desafio 4**
 
 - Criar um smartcontract calculadores que tem as 4 operações básicas e guarda o resultado
 
