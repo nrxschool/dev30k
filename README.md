@@ -1,30 +1,112 @@
-# Treinamento dev30k
+# Treinamento Dev30K: Blockchain com Stellar
 
-Treinamento em blockchain focado na Stellar onde pra cada aula é passado um desafio, todos que conseguem resolver o desafio ganham XLM.
+**Descrição do Treinamento:**  
+O Treinamento Dev30K é um programa intensivo em blockchain com foco na Stellar. Cada aula oferece um desafio prático, e os participantes que resolverem o desafio recebem recompensas em Reais.
 
-## Aula 1 [Instalar dependencias e Criar um par de chaves]: R$ 5.000,00
+**Objetivo:**  
+Capacitar desenvolvedores na criação e implementação de soluções blockchain utilizando a rede Stellar, promovendo aprendizado prático através de desafios progressivos.
 
-- Apresentação da NearX e Stellar
-- Apresentação do mercado de Blockchain
-- Apresentação do conteúdo do treinamento
-- Casos de uso da técnologia Blockchain e Stellar
+---
 
-## Aula 2 [Criar uma transação do tipo `manage_data_op` com dados assinados]: R$ 10.000,00
+## Conteúdo Programático
 
-- Como funcionam as Wallets (Python e JavaScript)
-- Resolução do desafio da semana passada
-- Pagamento dos classificados
-- Básico sobre Transações (Python)
+### Aula 1: Instalação de Dependências e Criação de Par de Chaves
 
-## Aula 3 [Criar um smartcontract Calculadora]: R$ 15.000,00
+**Objetivos:**
 
-- Resolução do desafio da semana passada
-- Pagamento dos classificados
-- Básico sobre Rust, Criando primeiro smartcontracts (Rust)
+- Introdução ao treinamento e aos conceitos fundamentais da blockchain Stellar.
+- Configuração do ambiente de desenvolvimento.
 
-## Aula 4 [NFT certificado de participação]: Certificado de 30h
+**Tópicos:**
 
-- Avançado sobre Rust e smartcontracts (TTL e NFT)
-- Resolução do desafio da semana passada
-- Pagamento dos classificados
-- Avançado sobre NFTs, Criando NFT do treinamento "DEV30K"
+- Apresentação da NearX e Stellar.
+- Introdução ao mercado de Blockchain.
+- Visão geral do conteúdo do treinamento.
+- Casos de uso da tecnologia Blockchain e da Stellar.
+
+**Desafio:**
+
+- ✅ Criar um par de chaves para operações na rede Stellar.
+
+---
+
+### Aula 2: Transação com `manage_data_op` e Dados Assinados
+
+**Objetivos:**
+
+- Explorar o funcionamento das carteiras digitais.
+- Introdução ao processo de transações em blockchain.
+
+**Tópicos:**
+
+- Funcionamento das Wallets em Python e JavaScript.
+- Revisão do desafio anterior (_criação de par de chaves_).
+- Introdução às transações em Python.
+- **Recompensa:** **1.000 R$** para classificados (`create_account_op`).
+
+**Desafio:**
+
+- ✅ Criar uma transação do tipo `manage_data_op` contendo dados assinados.
+
+---
+
+### Aula 3: Introdução a Smart Contracts - Matemática Básica
+
+**Objetivos:**
+
+- Introduzir os conceitos e a sintaxe de Rust para desenvolvimento de smart contracts.
+- Desenvolver um primeiro smart contract simples (`Flipper`).
+
+**Tópicos:**
+
+- Revisão do desafio anterior (_manage_data_op_).
+- Introdução ao Rust e criação do primeiro smart contract.
+- Implementação de um contrato simples de matemática.
+- **Recompensa:** **5.000 R$** para classificados (`payment_op`).
+
+**Desafio:**
+
+- ⏰ Desenvolver um smart contract matemático em Rust.
+
+---
+
+### Aula 4: Desenvolvimento de Tokens com Smart Contracts
+
+**Objetivos:**
+
+- Avançar no uso de Rust para contratos inteligentes.
+- Introduzir o conceito de tempo de vida (TTL) em smart contracts.
+
+**Tópicos:**
+
+- Revisão do desafio anterior (_smart contract matemático_).
+- Desenvolvimento de smart contracts avançados com Rust (TTL).
+- Criação de um smart contract de token (`CRUD`).
+- **Recompensa:** **9.000 R$** para classificados (`interact script and payment_op`).
+
+**Desafio:**
+
+- ⏰ Criar um smart contract de token utilizando Rust.
+
+---
+
+### Aula 5: Certificado NFT - Certificação de Participação
+
+**Objetivos:**
+
+- Concluir o treinamento com a criação de um NFT para os participantes.
+- Validar o conhecimento adquirido com um certificado em formato NFT.
+
+**Tópicos:**
+
+- Revisão do desafio anterior (_smart contract de token_).
+- Criação de um NFT de certificação de 30 horas para os participantes.
+- Envio do NFT "DEV30K" para todos os aprovados.
+- **Recompensa:** **15.000 R$** para classificados + NFT (`add in wallet and payment_op`).
+
+---
+
+**Notas:**
+
+- Este treinamento segue uma metodologia de LearnToEarn, onde cada desafio resolvido gera uma recompensa em R$.
+- A cada aula, há uma sessão de revisão do desafio anterior para consolidar o aprendizado e preparar o próximo conteúdo.
