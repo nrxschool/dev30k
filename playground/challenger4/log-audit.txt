@@ -1,0 +1,64 @@
+Candidates: 4
+🚨 Erro ao enviar ao preparar transação: HostError: Error(WasmVm, InvalidAction)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: sum(4294967295, 1) = None, esperado 4294967295
+🚨 Erro ao enviar ao preparar transação: HostError: Error(WasmVm, InvalidAction)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: div(1, 0) = None, esperado 4294967295
+🚨 Erro: ❌ Erro: last_op() retorne None          
+🚨 Esse contrato nem passou: CDQJJ4FZBXJTNJZ6O7NDAMBKZVAVP4SV2BWZAH7KATHNLTEZTX5EYY6M
+🚨 Erro ao enviar ao preparar transação: HostError: Error(WasmVm, InvalidAction)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: sum(4294967295, 1) = None, esperado 4294967295
+🚨 Erro ao enviar ao preparar transação: HostError: Error(WasmVm, InvalidAction)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: div(1, 0) = None, esperado 4294967295
+🚨 Erro: ❌ Erro: last_op() retorne None          
+🚨 Esse contrato nem passou: CC4V2VSJNHUJL5QNPFRBO4UKJRIAMV3JFPOXJGKNVPXQXFHBNTBPBSTN
+🚨 Erro ao enviar ao preparar transação: HostError: Error(Storage, MissingValue)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: sum(4294967295, 1) = None, esperado 4294967295
+🚨 Erro ao enviar ao preparar transação: HostError: Error(Storage, MissingValue)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: div(1, 0) = None, esperado 4294967295
+🚨 Erro ao enviar ao preparar transação: HostError: Error(Storage, MissingValue)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: last_op() retorne None
+🚨 Esse contrato nem passou: CANJK5IK6GHFEGCDORRXLXJK2JNZ22GCZNVHQAUVJ337APYCJ6ZDTAFM
+🚨 Erro ao enviar ao preparar transação: HostError: Error(Storage, MissingValue)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: sum(4294967295, 1) = None, esperado 4294967295
+🚨 Erro ao enviar ao preparar transação: HostError: Error(Storage, MissingValue)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: div(1, 0) = None, esperado 4294967295
+🚨 Erro ao enviar ao preparar transação: HostError: Error(Storage, MissingValue)
+DebugInfo not available
+
+🚨 Erro: ❌ Erro: last_op() retorne None
+🚨 Esse contrato nem passou: CDN5MPJEAXRL76TPYQAPEZMWFALK63YJPYC2EIPFQA6AYAC6LTHDEH55
+
+
+----- testnet
+✅ Sucesso: sum(4294967295, 1) = 4294967295       
+✅ Sucesso: div(1, 0) = 4294967295                
+🚨 Erro: list index out of range                  
+🎖️ [Summa Cum Laude] Esse contrato passou: CANJK5IK6GHFEGCDORRXLXJK2JNZ22GCZNVHQAUVJ337APYCJ6ZDTAFM
+🚨 Erro ao enviar ao preparar transação: HostError: Error(WasmVm, InvalidAction)
+
+Event log (newest first):
+   0: [Diagnostic Event] contract:CDN5MPJEAXRL76TPYQAPEZMWFALK63YJPYC2EIPFQA6AYAC6LTHDEH55, topics:[error, Error(WasmVm, InvalidAction)], data:["VM call trapped: UnreachableCodeReached", sum]
+   1: [Diagnostic Event] topics:[fn_call, CDN5MPJEAXRL76TPYQAPEZMWFALK63YJPYC2EIPFQA6AYAC6LTHDEH55, sum], data:[4294967295, 1]
+
+🚨 Erro: ❌ Erro: sum(4294967295, 1) = None, esperado 4294967295
+✅ Sucesso: div(1, 0) = 4294967295                
+✅ Sucesso: last_op() =  {'id': 0, 'op': ['Div'], 'x': 1, 'y': 0, 'z': 4294967295}
+🎖️ [Summa Cum Laude] Esse contrato passou: CDN5MPJEAXRL76TPYQAPEZMWFALK63YJPYC2EIPFQA6AYAC6LTHDEH55
