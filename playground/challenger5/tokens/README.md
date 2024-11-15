@@ -1,5 +1,20 @@
 # Project Token CAP-0046-06 with Liquidity Pool
 
+**[DESAFIO 5] CRITERIOS DE AVALIAÇÃO**
+
+- Converter minha carteira em um número `GCREO3OEYOYWU4FTSOJAEC6EY7OTSQ7H2UJZ5A7YRCYV7R7MTP3JC72U`
+  1. PublicKey
+  2. sha256
+  3. Extrair os primeiros 2 bytes (4 caracteres hexadecimais)
+  4. numero decimal
+  5. total de tokens
+  6. DICA: O número é divisivel por 24 e 8 (x % 24 == 0 and x % 8 == 0)
+- Enviar esse número de tokens para minha carteira
+- Fornecer o `hash` da transação de deploy do contrato
+- Fornecer o `account id`
+
+
+
 ## Overview
 
 This project is a Soroban-based smart contract application that implements a token system with a liquidity pool. It leverages the Stellar blockchain to facilitate the deployment and interaction with smart contracts. The project includes two main contracts: `hello_world` and `nrx_token`, which serve as examples of how to create and interact with smart contracts on the Soroban platform.
