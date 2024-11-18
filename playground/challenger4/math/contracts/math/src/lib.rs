@@ -1,14 +1,8 @@
-#![no_std]
-use soroban_sdk::{contract, contractimpl, symbol_short, vec, Env, Symbol, Vec};
+#![cfg_attr(not(test), no_std)]
 
-#[contract]
-pub struct HelloContract;
-
-#[contractimpl]
-impl HelloContract {
-    pub fn hello(env: Env, to: Symbol) -> Vec<Symbol> {
-        vec![&env, symbol_short!("Foi"), to]
-    }
-}
-
+mod contract;
+mod interface;
+mod storage;
+mod storage_types;
+mod types;
 mod test;
