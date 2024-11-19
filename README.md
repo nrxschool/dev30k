@@ -66,7 +66,7 @@ Capacitar desenvolvedores na criação e implementação de soluções blockchai
 
 **Desafio:**
 
-- ⏰ Desenvolver um smart contract matemático em Rust.
+- ✅ Desenvolver um smart contract matemático em Rust.
 
 ---
 
@@ -86,7 +86,7 @@ Capacitar desenvolvedores na criação e implementação de soluções blockchai
 
 **Desafio:**
 
-- ⏰ Criar um smart contract de token utilizando Rust.
+- ✅ Criar um smart contract de token utilizando Rust.
 
 ---
 
