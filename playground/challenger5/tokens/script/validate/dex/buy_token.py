@@ -43,6 +43,3 @@ buy_order_transaction = (
 buy_order_transaction.sign(bob_keypair)
 response = horizon_server.submit_transaction(buy_order_transaction)
 print("✅ Ordem de compra criada com sucesso!")
-
-
-import balances
