@@ -110,3 +110,13 @@ Capacitar desenvolvedores na criação e implementação de soluções blockchai
 
 - Este treinamento segue uma metodologia de LearnToEarn, onde cada desafio resolvido gera uma recompensa em R$.
 - A cada aula, há uma sessão de revisão do desafio anterior para consolidar o aprendizado e preparar o próximo conteúdo.
+
+
+---
+
+# 💡 Este repositório é parte dos cursos, workshops ou bootcamps da NearX School.
+
+Quer acompanhar a aula completa em vídeo e entrar na comunidade? 
+👉 https://nearx.com.br/register | Comunidade: https://discord.com/invite/wavXA98gd8
+
+_NearX School: Aprenda o futuro, hoje._
